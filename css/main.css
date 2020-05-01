@@ -111,6 +111,14 @@ header form {
     margin-top: 70px;
 }
 
+@media (max-width: 991px){
+    
+header form {
+    text-align: center
+}
+
+}
+
 header form h2 {
     font-size: 18px;
     font-weight: bold;
