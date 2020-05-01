@@ -425,6 +425,11 @@ header form input[type="submit"] {
     .pricing-options .pricing-box:last-of-type {
         margin-bottom: 0;
     }
+    
+    .pricing-options .pricing-box.basic,
+    .pricing-options .pricing-box.enterprice {
+    margin-top: 0;
+}
 }
 
 .pricing-options .pricing-box.basic,
